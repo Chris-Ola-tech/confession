@@ -66,4 +66,4 @@ function showConfession() {
 // Special reveal for the closing line after 50s
 setTimeout(() => {
   document.getElementById("closing-line").classList.add("show-line");
-}, 90000); // 80,000 ms = 80 seconds
+}, 1000); // 80,000 ms = 80 seconds
